@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+.gradle/
+build/
+app/build/
+local.properties
+.DS_Store
+**/captures/
+**/*.apk
+**/*.aab
